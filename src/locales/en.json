@@ -1,0 +1,45 @@
+{
+  "driver": {
+    "profile": {
+      "referral_code": "referral code",
+      "mobile_number": "mobile number",
+      "region_name": "region name",
+      "route_name": "route name",
+      "chassis_number": "chassis number",
+      "oye_number": "OYE number",
+      "type_of_vehicle": "type of vehicle",
+      "owner_name": "owner name",
+      "owners_mobile_number": "owner’s mobile number",
+      "lync_connection_status": "Lync connection status",
+      "battery_level_of_lync": "Battery level of Lync",
+      "mac_id_of_Lync": "Mac ID of Lync",
+      "model_num": "MODEL NUM",
+      "serial_num": "SERIAL NUM",
+      "fw_version": "FW VERSION",
+      "hw_version": "HW VERSION",
+      "app_version": "App Version",
+      "buttons": {
+        "view_bank_details": "View bank details",
+        "send_booking_logs_data": "Send booking logs data",
+        "send_location_logs_data": "Send location logs data",
+        "view_terms_n_conditions": "View Terms & Conditions"
+      }
+    }
+  },
+  "nav": {
+    "processes": "Process Overview",
+    "context_factors": "Context Factors",
+    "context_situations": "Context Situations"
+  },
+  "footer": {
+    "about": "@:about.title",
+    "version": "Version: {version}",
+    "settings": "@:settings.title",
+    "download": "Download"
+  },
+  "input_type": {
+    "required": "This field is required",
+    "number": "This field needs to be a Number",
+    "boolean": "This field needs to be a Boolean (TRUE, FALSE)"
+  }
+}

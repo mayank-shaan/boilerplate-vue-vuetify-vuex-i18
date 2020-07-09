@@ -1,0 +1,45 @@
+{
+  "driver": {
+    "profile": {
+      "referral_code": "रेफरल कोड",
+      "mobile_number": "मोबाइल नंबर",
+      "region_name": "रीजन का नाम",
+      "route_name": "रूट का नाम",
+      "chassis_number": "चेसिस नंबर",
+      "oye_number": "OYE नंबर",
+      "type_of_vehicle": "गाडी प्रकार",
+      "owner_name": "ओनर का नाम",
+      "owners_mobile_number": "ओनर का मोबाइल नंबर",
+      "lync_connection_status": "लिंक कनेक्शन की स्थिति",
+      "battery_level_of_lync": "बैटरी का लेवल",
+      "mac_id_of_Lync": "मैक आईडी",
+      "model_num": "MODEL NUM",
+      "serial_num": "SERIAL NUM",
+      "fw_version": "FW VERSION",
+      "hw_version": "HW VERSION",
+      "app_version": "App Version",
+      "buttons": {
+        "view_bank_details": "बैंक विवरण देखे",
+        "send_booking_logs_data": "बुकिंग का डेटा भेजें",
+        "send_location_logs_data": "लोकेशन का डेटा भेजें",
+        "view_terms_n_conditions": "नियम और शर्तें देखे"
+      }
+    }
+  },
+  "nav": {
+    "processes": "Process Overview",
+    "context_factors": "Context Factors",
+    "context_situations": "Context Situations"
+  },
+  "footer": {
+    "about": "@:about.title",
+    "version": "Version: {version}",
+    "settings": "@:settings.title",
+    "download": "Download"
+  },
+  "input_type": {
+    "required": "This field is required",
+    "number": "This field needs to be a Number",
+    "boolean": "This field needs to be a Boolean (TRUE, FALSE)"
+  }
+}
