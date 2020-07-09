@@ -1,4 +1,4 @@
-# driver-rider-app
+# boilerplate-vue-vuetify-vuex-i18
 
 ## Project setup
 ```
